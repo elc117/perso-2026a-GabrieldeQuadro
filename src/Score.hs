@@ -41,10 +41,6 @@ penaltyPerHint = 10
 penaltyPerLife :: Int
 penaltyPerLife = 150
 
--- ─────────────────────────────────────────────────────────────
--- Funções de pontuação
--- ─────────────────────────────────────────────────────────────
-
 --   Calcula o custo de uma rodada (quanto será decrementado do score).
 --   Acerto: custo mínimo + penalidades por tentativas e dicas
 --   Erro:   penalidade fixa por vida perdida
@@ -58,9 +54,9 @@ calcCost attempts hintsUsed correct
               + hintsUsed * penaltyPerHint
   | otherwise = penaltyPerLife
 
--- Aplica o custo a pontuacao
-applyRoundCost :: Int -- score atual
-               -> Int -- custo da rdada
+-- Aplica o custo (calccust) a pontuacao
+applyRoundCost :: Int 
+               -> Int 
                -> Int
 applyRoundCost sessionScore cost = max 0 (sessionScore - cost)
 
