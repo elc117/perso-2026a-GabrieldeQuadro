@@ -1,0 +1,11 @@
+Test suite pokeguess-test: RUNNING...
+Cases: 32  Tried: 0  Errors: 0  Failures: 0Cases: 32  Tried: 1  Errors: 0  Failures: 0Cases: 32  Tried: 2  Errors: 0  Failures: 0Cases: 32  Tried: 3  Errors: 0  Failures: 0Cases: 32  Tried: 4  Errors: 0  Failures: 0Cases: 32  Tried: 5  Errors: 0  Failures: 0Cases: 32  Tried: 6  Errors: 0  Failures: 0Cases: 32  Tried: 7  Errors: 0  Failures: 0Cases: 32  Tried: 8  Errors: 0  Failures: 0Cases: 32  Tried: 9  Errors: 0  Failures: 0Cases: 32  Tried: 10  Errors: 0  Failures: 0Cases: 32  Tried: 11  Errors: 0  Failures: 0Cases: 32  Tried: 12  Errors: 0  Failures: 0Cases: 32  Tried: 13  Errors: 0  Failures: 0                                            ### Failure in: 0:Score:13:badge label
+test/Spec.hs:101
+label Badge 1
+expected: "1 Ins\237gnia"
+ but got: "1 insignias"
+Cases: 32  Tried: 14  Errors: 0  Failures: 1Cases: 32  Tried: 15  Errors: 0  Failures: 1Cases: 32  Tried: 16  Errors: 0  Failures: 1Cases: 32  Tried: 17  Errors: 0  Failures: 1Cases: 32  Tried: 18  Errors: 0  Failures: 1Cases: 32  Tried: 19  Errors: 0  Failures: 1Cases: 32  Tried: 20  Errors: 0  Failures: 1Cases: 32  Tried: 21  Errors: 0  Failures: 1Cases: 32  Tried: 22  Errors: 0  Failures: 1Cases: 32  Tried: 23  Errors: 0  Failures: 1Cases: 32  Tried: 24  Errors: 0  Failures: 1Cases: 32  Tried: 25  Errors: 0  Failures: 1Cases: 32  Tried: 26  Errors: 0  Failures: 1Cases: 32  Tried: 27  Errors: 0  Failures: 1Cases: 32  Tried: 28  Errors: 0  Failures: 1Cases: 32  Tried: 29  Errors: 0  Failures: 1Cases: 32  Tried: 30  Errors: 0  Failures: 1Cases: 32  Tried: 31  Errors: 0  Failures: 1                                            Cases: 32  Tried: 32  Errors: 0  Failures: 1
+
+✅ Testes: 32 casos, 1 falhas, 0 erros.
+Test suite pokeguess-test: PASS
+Test suite logged to: /home/gabriel/Projetos/perso-2026a-GabrieldeQuadro/./dist-newstyle/build/x86_64-linux/ghc-9.14.1/pokeguess-0.1.0.0/t/pokeguess-test/test/pokeguess-0.1.0.0-pokeguess-test.log
