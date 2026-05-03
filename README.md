@@ -72,10 +72,7 @@ Estava pedindo pagamento para inicializar a criação do projeto então não foi
 
 ## 7. Resultado final
 
-Apresente o resultado final do trabalho, na forma de GIF animado ou vídeo curto (máximo 60s)
-
-Você também pode acrescentar uma breve explicação sobre o que está sendo demonstrado.
-
+(https://youtu.be/WpMfpOpiOXM)
 ---
 
 
